@@ -1,7 +1,4 @@
-/*
-Template Name: EventGrids - Conference and Event HTML Template.
-Author: GrayGrids
-*/
+
 
 (function () {
     //===== Prealoder
